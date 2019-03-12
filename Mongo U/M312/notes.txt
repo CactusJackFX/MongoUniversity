@@ -1,0 +1,2 @@
+Server Log documentation
+https://docs.mongodb.com/manual/reference/log-messages/
